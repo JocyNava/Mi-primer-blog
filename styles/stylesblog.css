@@ -1,0 +1,171 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+	width: 100%;
+	height: 100%;
+}
+.nav {
+	width: 25px;
+	margin-right: 35px;
+	margin-top: 20px;
+	float: right;
+	color: #FFFFFF;
+	font-family: cursive;
+}
+.nav-button{
+	background-image: url(../img/fb-art.jpg);
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 25px;
+	height: 25px;
+	border-radius: 5px;
+}
+.nav-buttont1{
+	background-image: url(../img/twitter-logo.png);
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 25px;
+	height: 25px;
+	border-radius: 5px;
+	margin-left: 25px;
+}
+.header-div_nombre{
+	width: 100%;
+	height: 580px;
+	margin-top: -20px;
+	text-align: center;
+	font-family: fantasy;
+	background-image: url(../img/amanecer.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	color: #FFFFFF;
+}
+.header-div_nombre h1{
+	padding-top: 18%;
+	font-size: 400%;
+}
+#div-h2_descripcion{
+	width: 50%;
+	font-family: fantasy;
+	font-size: 20px;
+	color: white;
+	line-height: normal;
+	float: right;
+	margin-top: 12%;
+	margin-right: -8%;
+}
+.main-navbar{
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	position: fixed;
+	background-color: black;
+	border:5px;
+	border-style: solid;
+	border-color: black;
+	font-family: fantasy;
+}
+.main-div_buttons{
+	width: 19%;
+	display: inline-block;
+}
+#buton-inicio {
+	width: 40px;
+}
+.main-navbar button{
+	background-color: black;
+	border: none;
+	margin-top: 10px;
+	margin-left: 13%;
+}
+.main-div_Profesional{
+	width: 100%;
+	height: 650px;
+	float: right;
+	text-align: center;
+	margin-top: 50px;
+}
+.main-div_Profesional a{
+	margin-top: 20px;
+	font-size: 16px;
+}
+.main-div_Profesional p{
+	width: 70%;
+	margin-top: 5px;
+	margin-left: 15%;
+	line-height: 150%;
+	font-size: 14px;
+}
+.main-div_logostrabajo{
+	text-align: center;
+	margin-top: 20px;
+}
+.main-div_logoeca{
+	width: 80px;
+	height: 30px;
+}
+.main-div_logosigma{
+	width: 45px;
+	height: 40px;
+}
+.main-div_logoipade{
+	width: 40px;
+	height: 40px;
+}
+.main-div_logovalle{
+	width: 50px;
+}
+.main-div_logosre{
+	width: 50px;
+}
+hr {
+	margin-top: 20px;
+	border: 3px solid #666; 
+	border-radius: 300px/10px; 
+	height: 0px; 
+	text-align: center;
+}
+.main-div_vidafamiliar{
+	width: 100%;
+	height: 100%;
+	margin-top: 50px;
+	font-size: 14px;
+}
+.main-div_a_nava{
+	margin-top: 10px;
+	text-align: center;
+}
+.main-div_imgs{
+	width: 100%;
+	height: 100%;
+	margin-top: 3%;
+}
+.main-div_imglos4{
+	width: 250px;
+	height: 200px;
+	border-radius: 150px;
+}
+.main-div_imgfamilia1{
+	width: 250px;
+	height: 200px;
+	border-radius: 150px;
+}
+.main-div_imgtaydeyyo{
+	width: 250px;
+	height: 200px;
+	border-radius: 150px;
+}
+.main-div_hobbies{
+	width: 100%;
+	height: 650px;
+	margin-top: 50px;
+}
+.main-div_hobbies img{
+	width: 100%;
+	margin-top: 50px;
+}
