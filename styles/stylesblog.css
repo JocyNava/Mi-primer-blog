@@ -61,7 +61,7 @@ body {
 }
 .main-navbar{
 	width: 100%;
-	height: 50px;
+	height: 80%;
 	text-align: center;
 	position: fixed;
 	background-color: black;
@@ -69,19 +69,20 @@ body {
 	border-style: solid;
 	border-color: black;
 	font-family: fantasy;
+	z-index: 1;
 }
 .main-div_buttons{
 	width: 19%;
 	display: inline-block;
+	margin-left: 1%;
 }
 #buton-inicio {
-	width: 40px;
+	width: 50px;
 }
 .main-navbar button{
 	background-color: black;
 	border: none;
 	margin-top: 10px;
-	margin-left: 13%;
 }
 .main-div_Profesional{
 	width: 100%;
@@ -132,7 +133,7 @@ hr {
 }
 .main-div_vidafamiliar{
 	width: 100%;
-	height: 100%;
+	height: 135%;
 	margin-top: 50px;
 	font-size: 14px;
 }
@@ -160,12 +161,12 @@ hr {
 	height: 200px;
 	border-radius: 150px;
 }
-.main-div_hobbies{
+.accionSocial{
 	width: 100%;
-	height: 650px;
-	margin-top: 50px;
+	height: 200%;
+	margin-top: 100px;
 }
-.main-div_hobbies img{
-	width: 100%;
-	margin-top: 50px;
+.carrusel-img_formato{
+	width: 60%;
+	margin-left: 20%;
 }
